@@ -19,3 +19,8 @@ This code saves training information into checkpoints and use it to resume train
 ### 1. [Sentiment analysis in numpy](https://github.com/UtkarshGarg-UG/Deep-Learning-Projects/blob/main/Building%20from%20Scratch/Sentiment_analysis_in_numpy.ipynb)
 Building a neural network from scratch. We understand the effect of importance of learning rate and input size on training speed. 
 Also we check out the learnt embeddings of similar words
+
+# [NLP](https://github.com/UtkarshGarg-UG/Deep-Learning-Projects/tree/main/NLP)
+
+### 1. [Loading a custom dataset](https://github.com/UtkarshGarg-UG/Deep-Learning-Projects/blob/main/NLP/loading%20custom%20dataset.ipynb)
+Loading a custom dataset. Can be used for both text and images.
