@@ -4,7 +4,7 @@ This repo contains projects related to Vision, NLP and Reinforcement Learning
 
 
 
-# Building from Scratch :snowflake:
+## Building from Scratch :snowflake:
 
 ### 1. [Sentiment analysis in numpy](https://github.com/UtkarshGarg-UG/Deep-Learning-Projects/blob/main/Building%20from%20Scratch/Sentiment_analysis_in_numpy.ipynb) :blush: :confused:
 Building a neural network from scratch. We understand the effect of importance of learning rate and input size on training speed. 
