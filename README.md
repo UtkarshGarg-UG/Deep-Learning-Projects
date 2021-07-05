@@ -2,7 +2,7 @@
 This repo contains projects related to Vision, NLP and Reinforcement Learning
 
 
-# [Reusable Codes](https://github.com/UtkarshGarg-UG/Deep-Learning-Projects/tree/main/Reusable-Codes)
+# [Reusable Codes](https://github.com/UtkarshGarg-UG/Deep-Learning-Projects/tree/main/Reusable-Codes):cyclone:
 
 ### 1. [Hooks](https://github.com/UtkarshGarg-UG/Deep-Learning-Projects/tree/main/Reusable-Codes/Hooks) 
 1.1 [Forward Hooks](https://github.com/UtkarshGarg-UG/Deep-Learning-Projects/blob/main/Reusable-Codes/Hooks/forward_hook.ipynb)
