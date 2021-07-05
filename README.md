@@ -20,7 +20,7 @@ Loading a custom dataset. Can be used for both text and images.
 
 # [Computer Vision](https://github.com/UtkarshGarg-UG/Deep-Learning-Projects/tree/main/Computer-Vision) :eyes:
 
-### 1. Landmark (classification)(https://github.com/UtkarshGarg-UG/Deep-Learning-Projects/tree/main/Computer-Vision/Landmark) :tokyo_tower:
+### 1. [Landmark Classification](https://github.com/UtkarshGarg-UG/Deep-Learning-Projects/tree/main/Computer-Vision/Landmark) :tokyo_tower:
 Classify images into 50 Landmarks. Albumentations for augmentation. And a pretrained Resnet-34 for transfer learning
 
 # [Reusable Codes](https://github.com/UtkarshGarg-UG/Deep-Learning-Projects/tree/main/Reusable-Codes) :cyclone:
