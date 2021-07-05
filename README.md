@@ -12,7 +12,7 @@ Also we check out the learnt embeddings of similar words
 
 
 
-# Natural language Processing :star2:
+## Natural language Processing :star2:
 
 ### 1. [Loading a custom dataset](https://github.com/UtkarshGarg-UG/Deep-Learning-Projects/blob/main/NLP/loading%20custom%20dataset.ipynb) :notes:
 Loading a custom dataset. Can be used for both text and images.
@@ -20,12 +20,12 @@ Loading a custom dataset. Can be used for both text and images.
 ### 2. [Sequence to Sequence model for Machine Translation](https://github.com/UtkarshGarg-UG/Deep-Learning-Projects/tree/main/Building%20from%20Scratch/seq_to_seq) :flags:
 An Encoder Decoder based model to translate from English to Hindi. The code is customizable to be used for other translation tasks.
 
-#Computer Vision :eyes:
+## Computer Vision :eyes:
 
 ### 1. [Landmark Classification](https://github.com/UtkarshGarg-UG/Deep-Learning-Projects/tree/main/Computer-Vision/Landmark) :tokyo_tower:
 Classify images into 50 Landmarks. Albumentations for augmentation. And a pretrained Resnet-34 for transfer learning
 
-# Reusable Codes :cyclone:
+## Reusable Codes :cyclone:
 
 ### 1. [Hooks](https://github.com/UtkarshGarg-UG/Deep-Learning-Projects/tree/main/Reusable-Codes/Hooks) :dart: 
 1.1 [Forward Hooks](https://github.com/UtkarshGarg-UG/Deep-Learning-Projects/blob/main/Reusable-Codes/Hooks/forward_hook.ipynb)
