@@ -2,16 +2,6 @@
 This repo contains projects related to Vision, NLP and Reinforcement Learning
 
 
-# [Reusable Codes](https://github.com/UtkarshGarg-UG/Deep-Learning-Projects/tree/main/Reusable-Codes) :cyclone:
-
-### 1. [Hooks](https://github.com/UtkarshGarg-UG/Deep-Learning-Projects/tree/main/Reusable-Codes/Hooks) :dart: 
-1.1 [Forward Hooks](https://github.com/UtkarshGarg-UG/Deep-Learning-Projects/blob/main/Reusable-Codes/Hooks/forward_hook.ipynb)
-Learn about hooks in pytorch ([Youtube](https://www.youtube.com/watch?v=syLFCVYua6Q))
-
-Forward hooks can be used for model debugging and create activation maps
-
-### 2. [Resume Training from Checkpoint](https://github.com/UtkarshGarg-UG/Deep-Learning-Projects/tree/main/Reusable-Codes/Resuming%20Training) :arrow_forward:
-This code saves training information into checkpoints and use it to resume training
 
 
 # [Building from Scratch](https://github.com/UtkarshGarg-UG/Deep-Learning-Projects/tree/main/Building%20from%20Scratch) :snowflake:
@@ -27,3 +17,19 @@ An Encoder Decoder based model to translate from English to Hindi. The code is c
 
 ### 1. [Loading a custom dataset](https://github.com/UtkarshGarg-UG/Deep-Learning-Projects/blob/main/NLP/loading%20custom%20dataset.ipynb) :notes:
 Loading a custom dataset. Can be used for both text and images.
+
+# [Computer Vision](https://github.com/UtkarshGarg-UG/Deep-Learning-Projects/tree/main/Computer-Vision) :eyes:
+
+### 1. Landmark (classification)(https://github.com/UtkarshGarg-UG/Deep-Learning-Projects/tree/main/Computer-Vision/Landmark) :tokyo_tower:
+Classify images into 50 Landmarks. Albumentations for augmentation. And a pretrained Resnet-34 for transfer learning
+
+# [Reusable Codes](https://github.com/UtkarshGarg-UG/Deep-Learning-Projects/tree/main/Reusable-Codes) :cyclone:
+
+### 1. [Hooks](https://github.com/UtkarshGarg-UG/Deep-Learning-Projects/tree/main/Reusable-Codes/Hooks) :dart: 
+1.1 [Forward Hooks](https://github.com/UtkarshGarg-UG/Deep-Learning-Projects/blob/main/Reusable-Codes/Hooks/forward_hook.ipynb)
+Learn about hooks in pytorch ([Youtube](https://www.youtube.com/watch?v=syLFCVYua6Q))
+
+Forward hooks can be used for model debugging and create activation maps
+
+### 2. [Resume Training from Checkpoint](https://github.com/UtkarshGarg-UG/Deep-Learning-Projects/tree/main/Reusable-Codes/Resuming%20Training) :arrow_forward:
+This code saves training information into checkpoints and use it to resume training
