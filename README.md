@@ -13,7 +13,7 @@ Also we check out the learnt embeddings of similar words
 
 ## Natural language Processing :star2:
 
-#### 1. [Loading a custom dataset](https://github.com/UtkarshGarg-UG/Deep-Learning-Projects/blob/main/NLP/loading%20custom%20dataset.ipynb) :notes:
+#### 1. [Loading a custom dataset](https://github.com/UtkarshGarg-UG/Deep-Learning-Projects/tree/main/NLP/Custom%20Dataset) :notes:
 Loading a custom dataset. Can be used for both text and images.
 
 #### 2. [Sequence to Sequence model for Machine Translation](https://github.com/UtkarshGarg-UG/Deep-Learning-Projects/tree/main/Building%20from%20Scratch/seq_to_seq) :flags:
@@ -35,4 +35,4 @@ Forward hooks can be used for model debugging and create activation maps
 #### 2. [Resume Training from Checkpoint](https://github.com/UtkarshGarg-UG/Deep-Learning-Projects/tree/main/Reusable-Codes/Resuming%20Training) :arrow_forward:
 This code saves training information into checkpoints and use it to resume training
 
-#### 3. [Custom dataset - NLP](https://github.com/UtkarshGarg-UG/Deep-Learning-Projects/blob/main/NLP/loading%20custom%20dataset.ipynb)
+#### 3. [Custom dataset - NLP](https://github.com/UtkarshGarg-UG/Deep-Learning-Projects/tree/main/NLP/Custom%20Dataset)
