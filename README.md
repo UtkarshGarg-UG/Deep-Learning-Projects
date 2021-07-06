@@ -16,7 +16,7 @@ Also we check out the learnt embeddings of similar words
 #### 1. [Loading a custom dataset](https://github.com/UtkarshGarg-UG/Deep-Learning-Projects/tree/main/NLP/Custom%20Dataset) :notes:
 Loading a custom dataset. Can be used for both text and images.
 
-#### 2. [Sequence to Sequence model for Machine Translation](https://github.com/UtkarshGarg-UG/Deep-Learning-Projects/tree/main/Building%20from%20Scratch/seq_to_seq) :flags:
+#### 2. [Sequence to Sequence model for Machine Translation](https://github.com/UtkarshGarg-UG/Deep-Learning-Projects/tree/main/NLP/Seq2Seq) :flags:
 An Encoder Decoder based model to translate from English to Hindi. The code is customizable to be used for other translation tasks.
 
 ## Computer Vision :eyes:
