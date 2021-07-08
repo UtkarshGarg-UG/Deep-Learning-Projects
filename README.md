@@ -10,14 +10,15 @@ This repo contains projects related to Vision, NLP and Reinforcement Learning
 Building a neural network from scratch. We understand the effect of importance of learning rate and input size on training speed. 
 Also we check out the learnt embeddings of similar words
 
+#### 2. [Sequence to Sequence model for Machine Translation](https://github.com/UtkarshGarg-UG/Deep-Learning-Projects/tree/main/NLP/Seq2Seq) :flags:
+An Encoder Decoder based model to translate from English to Hindi. The code is customizable to be used for other translation tasks.
+
 
 ## Natural language Processing :star2:
 
 #### 1. [Loading a custom dataset](https://github.com/UtkarshGarg-UG/Deep-Learning-Projects/tree/main/NLP/Custom%20Dataset) :notes:
 Loading a custom dataset. Can be used for both text and images.
 
-#### 2. [Sequence to Sequence model for Machine Translation](https://github.com/UtkarshGarg-UG/Deep-Learning-Projects/tree/main/NLP/Seq2Seq) :flags:
-An Encoder Decoder based model to translate from English to Hindi. The code is customizable to be used for other translation tasks.
 
 ## Computer Vision :eyes:
 
