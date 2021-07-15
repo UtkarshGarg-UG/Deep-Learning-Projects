@@ -13,6 +13,8 @@ Also we check out the learnt embeddings of similar words
 #### 2. [Sequence to Sequence model for Machine Translation](https://github.com/UtkarshGarg-UG/Deep-Learning-Projects/tree/main/NLP/Seq2Seq) :flags:
 An Encoder Decoder based model to translate from English to Hindi. The code is customizable to be used for other translation tasks.
 
+#### 3. [Effect of different weight initializations](https://github.com/UtkarshGarg-UG/Deep-Learning-Projects/tree/main/Building%20from%20Scratch/weight_initialization) :crystal_ball: 
+Here we discuss different methods of weight initializations and also dicuss why things work the way they do.
 
 ## Natural language Processing :star2:
 
