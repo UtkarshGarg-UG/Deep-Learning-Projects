@@ -18,7 +18,7 @@ Here we discuss different methods of weight initializations and also dicuss why 
 
 ## Natural language Processing :star2:
 
-#### 1. [Loading a custom Text dataset](https://github.com/UtkarshGarg-UG/Deep-Learning-Projects/tree/main/NLP/Custom%20Dataset) :notes:
+#### 1. [Loading a custom Text dataset](https://github.com/UtkarshGarg-UG/Deep-Learning-Projects/blob/main/Computer-Vision/Loading-Custom-Dataset/loading_custom_dataset_images.ipynb) :notes:
 Loading a custom dataset in pytorch for machine translation. Can be used for both text and images.
 
 
@@ -27,7 +27,7 @@ Loading a custom dataset in pytorch for machine translation. Can be used for bot
 #### 1. [Landmark Classification](https://github.com/UtkarshGarg-UG/Deep-Learning-Projects/tree/main/Computer-Vision/Landmark) :tokyo_tower:
 Classify images into 50 Landmarks. Albumentations for augmentation. And a pretrained Resnet-34 for transfer learning
 
-#### 2. [Loading a custom image dataset](https://github.com/UtkarshGarg-UG/Deep-Learning-Projects/tree/main/Computer-Vision/Loading-Custom-Dataset) :cupcake:
+#### 2. [Loading a custom image dataset](https://github.com/UtkarshGarg-UG/Deep-Learning-Projects/blob/main/Computer-Vision/Loading-Custom-Dataset/loading_custom_dataset_images.ipynb) :cupcake:
 Loading a custom dataset in pytorch for image classification
 
 ## Reusable Codes :cyclone:
