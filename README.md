@@ -18,7 +18,7 @@ Here we discuss different methods of weight initializations and also dicuss why 
 
 ## Natural language Processing :star2:
 
-#### 1. [Loading a custom Text dataset](https://github.com/UtkarshGarg-UG/Deep-Learning-Projects/blob/main/Computer-Vision/Loading-Custom-Dataset/loading_custom_dataset_images.ipynb) :notes:
+#### 1. [Loading a custom Text dataset](https://github.com/UtkarshGarg-UG/Deep-Learning-Projects/blob/main/NLP/Custom%20Dataset/loading%20custom%20dataset%20(text).ipynb) :notes:
 Loading a custom dataset in pytorch for machine translation. Can be used for both text and images.
 
 
