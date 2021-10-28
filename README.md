@@ -10,10 +10,8 @@ This repo contains projects related to Vision, NLP and Reinforcement Learning
 Building a neural network from scratch. We understand the effect of importance of learning rate and input size on training speed. 
 Also we check out the learnt embeddings of similar words
 
-#### 2. [Sequence to Sequence model for Machine Translation](https://github.com/UtkarshGarg-UG/Deep-Learning-Projects/tree/main/NLP/Seq2Seq) :flags:
-An Encoder Decoder based model to translate from English to Hindi. The code is customizable to be used for other translation tasks.
 
-#### 3. [Effect of different weight initializations](https://github.com/UtkarshGarg-UG/Deep-Learning-Projects/blob/main/Building%20from%20Scratch/weight_initialization/Effect%20of%20init%20of%20weights.ipynb) :crystal_ball: 
+#### 2. [Effect of different weight initializations](https://github.com/UtkarshGarg-UG/Deep-Learning-Projects/blob/main/Building%20from%20Scratch/weight_initialization/Effect%20of%20init%20of%20weights.ipynb) :crystal_ball: 
 Here we discuss different methods of weight initializations and also dicuss why things work the way they do.
 
 ## Natural language Processing :star2:
@@ -21,6 +19,8 @@ Here we discuss different methods of weight initializations and also dicuss why 
 #### 1. [Loading a custom Text dataset](https://github.com/UtkarshGarg-UG/Deep-Learning-Projects/blob/main/NLP/Custom%20Dataset/loading%20custom%20dataset%20(text).ipynb) :notes:
 Loading a custom dataset in pytorch for machine translation. Can be used for both text and images.
 
+#### 2. [Sequence to Sequence model for Machine Translation](https://github.com/UtkarshGarg-UG/Deep-Learning-Projects/tree/main/NLP/Seq2Seq) :flags:
+An Encoder Decoder based model to translate from English to Hindi. The code is customizable to be used for other translation tasks.
 
 ## Computer Vision :eyes:
 
