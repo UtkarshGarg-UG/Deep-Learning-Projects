@@ -9,6 +9,7 @@
 
 # Training
 
+* Download Train Data from here: https://scale-static-assets.s3-us-west-2.amazonaws.com/ml-interview/expand/train.txt
 * The main file is train.py
 * It contains the main training loop
 * Format of train.txt expected: -8*x*(3\*x+14)=-24*x*\*2-112\*x
