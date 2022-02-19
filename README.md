@@ -22,6 +22,8 @@ Loading a custom dataset in pytorch for machine translation. Can be used for bot
 #### 2. [Sequence to Sequence model for Machine Translation](https://github.com/UtkarshGarg-UG/Deep-Learning-Projects/tree/main/NLP/Seq2Seq) :flags:
 An Encoder Decoder based model to translate from English to Hindi. The code is customizable to be used for other translation tasks.
 
+#### 3. [Quadratic Solver Transformer](https://github.com/UtkarshGarg-UG/Quadratic_Solver_Transformer) 🔥 
+And end-to-end Encoder Decoder transformer project to solve Quadratic Equations. Also has code for attention maps
 ## Computer Vision :eyes:
 
 #### 1. [Landmark Classification](https://github.com/UtkarshGarg-UG/Deep-Learning-Projects/tree/main/Computer-Vision/Landmark) :tokyo_tower:
