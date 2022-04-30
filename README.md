@@ -26,6 +26,8 @@ An Encoder Decoder based model to translate from English to Hindi. The code is c
 And end-to-end Encoder Decoder transformer project to solve Quadratic Equations. Also has code for attention maps
 ## Computer Vision :eyes:
 
+### 4. [Multi-Task-Learning](https://github.com/UtkarshGarg-UG/Multi-task-learning-NER_Intent) :dart:
+
 #### 1. [Landmark Classification](https://github.com/UtkarshGarg-UG/Deep-Learning-Projects/tree/main/Computer-Vision/Landmark) :tokyo_tower:
 Classify images into 50 Landmarks. Albumentations for augmentation. And a pretrained Resnet-34 for transfer learning
 
